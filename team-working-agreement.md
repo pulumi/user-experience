@@ -21,16 +21,16 @@ This meeting style is inspire by [Honeycomb's approach](https://www.honeycomb.io
 
 ### Iteration Planning
 
-- before the start of the meeting everyone should review the backlog and ready columns and move things
-up to the top that are high impact or that folks have interest in working on next iteration
+- Before the start of the meeting everyone should review the backlog and ready columns and move things
+up to the top that are high impact or that folks have interest in working on the next iteration
 
 #### General Structure
 
-- celebrate what was completed last milestone
-- move anything started but unfinished to the next milestone
-- quick review of quarter epics and progress
-- discuss anything not-started from the last iteration and decided whether to move it to the next milestone
-- remove milestone filter and together add what we want to accomplish this milestone
+- Celebrate what was completed the last milestone
+- Move anything started but unfinished to the next milestone
+- A quick review of quarter epics and progress
+- Discuss anything not-started from the last iteration and decided whether to move it to the next milestone
+- Remove milestone filter and together add what we want to accomplish this milestone
 
 ## Retro
 
