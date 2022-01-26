@@ -8,13 +8,13 @@ Try and avoid scheduling team meetings outside of the shared range.
 - Kimberley: 8:30 am pt – 4:30 pm pt
 - Anita: 10:00 am et – 5:00 pm et
 
-## Team meetings
+## Meetings
 
 - Team meeting: every Tuesday/Thursday 8:30 am pt – 9:00 am pt / 11:30 am et – 12:00 pm et
 - Iteration planning: first Monday of the iteration 8:30 am pt – 9:00 am pt / 11:30 am et – 12:00 pm et
 - Retro: last Friday of the iteration 8:30 am pt – 9:30 am pt / 11:30 am et – 12:30 pm et
 
-## Team Meetings
+### Team Meetings
 
 These are meant to be informal. We come together and chat about anything we'd like, work realted or not.
 This meeting style is inspire by [Honeycomb's approach](https://www.honeycomb.io/blog/standup-meetings-are-dead/).
