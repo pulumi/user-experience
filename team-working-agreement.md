@@ -32,7 +32,7 @@ up to the top that are high impact or that folks have interest in working on the
 - Discuss anything not-started from the last iteration and decided whether to move it to the next milestone
 - Remove milestone filter and together add what we want to accomplish this milestone
 
-## Retro
+### Retro
 
 - We get together and add cards to the board in two categories: "What went well", "What could be better", then together as a group we talk about them
 - Everything is welcome for discussion including things that are happening outside of our team
