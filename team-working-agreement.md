@@ -17,7 +17,7 @@ Try and avoid scheduling team meetings outside of the shared range.
 ### Team Meetings
 
 These are meant to be informal. We come together and chat about anything we'd like, work realted or not.
-This meeting style is inspire by [Honeycomb's approach](https://www.honeycomb.io/blog/standup-meetings-are-dead/).
+This meeting style is inspired by [Honeycomb's approach](https://www.honeycomb.io/blog/standup-meetings-are-dead/).
 
 ### Iteration Planning
 
@@ -29,7 +29,7 @@ up to the top that are high impact or that folks have interest in working on the
 - Celebrate what was completed the last milestone
 - Move anything started but unfinished to the next milestone
 - A quick review of quarter epics and progress
-- Discuss anything not-started from the last iteration and decided whether to move it to the next milestone
+- Discuss anything not-started from the last milestone and decided whether to move it to the next milestone
 - Remove milestone filter and together add what we want to accomplish this milestone
 
 ### Retro
