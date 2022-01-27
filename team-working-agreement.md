@@ -6,7 +6,7 @@ Try and avoid scheduling team meetings outside of the shared range.
 
 - susan: 5 am pt – 3 pm pt
 - Kimberley: 8:30 am pt – 4:30 pm pt
-- Anita: 10:00 am et – 5:00 pm et
+- Anita: 9:00 am et – 5:00 pm et
 
 ## Meetings
 
